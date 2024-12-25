@@ -1,0 +1,127 @@
+body {
+    --themecolor: #0bb990;
+    --button-color: #ffffff;
+    --anchor-color: #3377FF;
+    --themecoloropacity: #3cc7a6;
+}
+
+.wr-content-box-layout-3 .wr-highlighted-text {
+    background-color: #0bb990;
+}
+
+.wt-searchbtn {
+    background: #0bb990;
+}
+
+.wr-freelancer-header-content > li {
+    color: #0bb990;
+	background: rgb(11 185 144 / 10%);
+}
+
+.wr-secondary-btn:hover,
+.wr-secondary-btn:focus{
+    color: #fff;
+    border-color: #0bb990;
+    background-color: #0bb990;
+}
+
+.wr-secondary-btn::before {
+    background: #0bb990;
+}
+.wr-button-wrapper .wr-primary-btn{
+	background:#0bb990;
+}
+.wr-button-wrapper .wr-primary-btn:hover{
+	background:#3cc7a6;
+}
+.wr-content-box-wrapper .wr-subtitle {
+    color: #0bb990;
+ }
+
+.wr_popular .wr-most-popular-tag {
+    background: #0bb990;
+ }
+
+.wr_popular {
+    border: 2px solid #0bb990;
+}
+
+.wr-package-item .wr-pricing__content:hover .wr-secondary-btn {
+    background: #0bb990;
+}
+
+.wr-package-item .wr-pricing__content.wr_popular .wr-btnv2.wr-btn {
+    background: #0bb990;
+}
+
+
+.wr-navbarbtn .wr-btn-solid-lg, .wr-navbarbtn .wr-btn-solid-lg-lefticon {
+    background: #0bb990 !important;
+    border-color: #0bb990 !important;
+}
+.wr-background-primary {
+    background: #0bb990;
+}
+.wr-header-transparent .wr-navbarbtn .wr-btn-solid-lg:hover{
+	background: #0bb990 !important;
+    border-color: #0bb990 !important;
+}
+.wr-content-box-layout-1 .wr-title .wr-highlighted-text::after{
+	background-color: #0bb990;
+}
+.wr-freelancers-grid-item:hover .wr-secondary-btn {
+    background: #0bb990;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-primary-btn {
+    border-color: #0bb990;
+	background: #0bb990;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-primary-btn:hover {
+    border-color: #3cc7a6;
+	background: #0bb990;
+}
+.wr-heroslider_content .wr-title .wr-highlighted-text::after{
+	background: #0bb990;
+}
+.wr-info-box-wrapper .wr-title .wr-highlighted-text::after{
+	background: #0bb990;
+}
+.wr-feedback-slider-description svg path:nth-child(1){
+	fill: #0bb990;
+}
+.wr-info-box-wrapper .wr-title .wr-highlighted-text::after{
+	background-color: #0bb990;
+}
+header .wr-dropdowarrow{
+	background: #0bb990;
+}
+.wr-info-box-wrapper .wr-subtitle{
+	color: #0bb990;
+}
+.wr-projects-grid-item .wr-projects-grid-footer .wr-secondary-btn:focus,
+.wr-heroslider_content .wr-dual-button-wrapper .wr-secondary-btn:focus{
+	background: #0bb990;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-secondary-btn{
+	border-color: #fff;
+}
+.wr-heroslider_content .wr-dual-button-wrapper .wr-secondary-btn::before{
+	background: #fff
+}
+.wr-projects-grid-item .wr-projects-grid-footer .wr-secondary-btn:hover,
+.wr-projects-grid-item .wr-projects-grid-footer .wr-secondary-btn:focus{
+	background: #0bb990;
+}
+
+.wr-btn, .wr-btnvtwo{
+	background-color: #0bb990;
+}
+
+.wr-dual-button-wrapper .wr-btn.wr-primary-btn{
+	border-color: #0bb990;
+}
+
+.wr-dual-button-wrapper .wr-btn.wr-primary-btn:hover{
+	border-color: #3cc7a6;
+	background-color:#3cc7a6;
+}
